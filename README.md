@@ -1,6 +1,6 @@
 # OUM SREE DEV — Personal Branding Website
 
-Premium multi-page personal branding website inspired by the supplied reference.
+Premium multi-page personal branding website 
 
 ## Stack
 - Next.js App Router
@@ -19,9 +19,7 @@ Premium multi-page personal branding website inspired by the supplied reference.
 
 ## Notes
 - White mode is the default, with a dark-mode toggle.
-- The hero image and brand identities are placeholders and can be replaced with final assets.
-- Brand cards include a dedicated logo/mark area ready for real company logos.
-- Social icons in the footer are placeholders until the final WhatsApp, Instagram and Facebook URLs are supplied.
+
 
 ## Run
 ```bash
